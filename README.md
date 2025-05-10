@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
-<h3 align="center">A passionate fullstack developer with over 3 years experience in programming</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skidev101" alt="skidev101" /></a> </p>
+<h3 align="center">I'm a passionate Full Stack Developer with over 3 years of experience building responsive web apps and scalable backend systems. I love turning ideas into code, exploring new technologies, and contributing to open source. Let's build something awesome!</h3>
 
 - 🔭 I’m currently working on **xenox**
 
