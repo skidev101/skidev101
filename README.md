@@ -1,6 +1,7 @@
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hello+world🛰🌍,+I'm+Ethan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hello+world🛰🌍,+I'm+Ethan;Full+Stack+Developer;Open+Source+Contributor;Let's+build+something+awesome!" alt="Typing SVG" />
 </p>
+
 
 
 <h3 align="left">I'm a passionate Full Stack Developer with over 3 years of experience building responsive web apps and scalable backend systems. I love turning ideas into code, exploring new technologies, and contributing to open source. Let's build something awesome!</h3>
