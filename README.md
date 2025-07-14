@@ -1,6 +1,6 @@
-<code style="color:#36BCF7; font-family:'Fira Code', 'Courier New', Courier, monospace; font-size: 1.5em;">
-Hello world🛰🌍, I'm Ethan
-</code>
+<h1 align="left">
+  Hello world🛰🌍, I'm Ethan
+</h1>
 
 
 
