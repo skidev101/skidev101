@@ -1,6 +1,7 @@
-<h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hello+world🛰🌍,+I'm+Ethan" alt="Typing SVG" />
-</h1>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello+world🛰🌍,+I'm+Ethan" alt="Typing SVG" />
+</p>
+
 
 <h3 align="left">I'm a passionate Full Stack Developer with over 3 years of experience building responsive web apps and scalable backend systems. I love turning ideas into code, exploring new technologies, and contributing to open source. Let's build something awesome!</h3>
 
