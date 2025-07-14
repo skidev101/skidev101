@@ -1,6 +1,7 @@
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hello+world🛰🌍,+I'm+Ethan;Full+Stack+Developer;Open+Source+Contributor;Let's+build+something+awesome!" alt="Typing SVG" />
-</p>
+<code style="color:#36BCF7; font-family:'Fira Code', 'Courier New', Courier, monospace; font-size: 1.5em;">
+Hello world🛰🌍, I'm Ethan
+</code>
+
 
 
 
