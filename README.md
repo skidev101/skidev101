@@ -1,7 +1,4 @@
-<h1 align="left">
-  Hello world🛰🌍, I'm Ethan
-</h1>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=10000&color=FF6B00&width=500&lines=Hello+world+%F0%9F%9B%B0%EF%B8%8F+%F0%9F%8C%8D++I'm+Ethan" alt="Typing SVG" /></a>
 
 
 
