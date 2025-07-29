@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on xenox<br>👯 I’m looking to collaborate on open source projects<br>💬 Ask me about my stack<br>⚡ Fun fact ~ programming is easy<br>🛸 Reach me on whatsapp  +2347056776830
+🔭 I’m currently working on xenox<br>👯 I’m looking to collaborate on open source projects<br>💬 Ask me about my stack<br>⚡ Fun fact ~ programming is not hard<br>🛸 Reach me on whatsapp  +2347056776830
 
 
 ## 🌐 Socials:
