@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on jsyk(coming out soon)<br>👯 I’m looking to collaborate on fully open source projects<br>💬 Ask me about my stack<br>⚡ Fun fact ~ programming is not hard<br>🛸 You can reach me on whatsapp  +2347056776830
+🔭 I’m currently working on jsyk(coming out soon)<br>👯 I’m looking to collaborate on open source projects<br>💬 Ask me about my stack<br>⚡ Fun fact ~ programming is not hard<br>🛸 You can reach me on whatsapp  +2347056776830
 
 
 ## 🌐 Socials:
