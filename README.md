@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=10000&color=FF6B00&width=500&lines=Hello+world+%F0%9F%9B%B0%EF%B8%8F+%F0%9F%8C%8D++I'm+Ethan" alt="Typing SVG" /></a>
+<h1>Hello world 🪐 I'm Ethan</h1>
 
 <h3 align="left">I'm a passionate Full Stack Developer with over 3 years of experience building responsive web apps and scalable backend systems. I love turning ideas into code, exploring new technologies, and contributing to open source. Let's build something awesome!</h3>
 
