@@ -3,7 +3,7 @@
 <h3 align="left">I'm a passionate Full Stack Developer with over 3 years of experience building responsive web apps and scalable backend systems. I love turning ideas into code, exploring new technologies, and contributing to open source. Let's build something awesome!</h3>
 
 
-# 💫 About Me:
+# About Me:
 🔭 Just shipped JSYK(An anonynous feedback platform)<br>👯 I’m looking to collaborate on open source projects<br>💬 Ask me about my stack<br>⚡ Fun fact ~ programming is not hard<br>🛸 You can reach me on whatsapp  +2347056776830
 
 
