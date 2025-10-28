@@ -17,7 +17,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=skidev101&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=skidev101&theme=github_dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=skidev101&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
-
-
