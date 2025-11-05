@@ -4,7 +4,7 @@
 
 
 # About Me:
-🔭 Just shipped JSYK(An anonynous feedback platform)<br>👯 I’m looking to collaborate on open source projects<br>💬 Ask me about my stack<br>⚡ Fun fact ~ programming is not hard
+🔭 Constantly shipping and learning<br>👯 I’m looking to collaborate on open source projects<br>💬 Ask me about my stack<br>⚡ Fun fact ~ programming is not hard
 
 
 ## 🌐 Socials:
