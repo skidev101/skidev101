@@ -4,7 +4,7 @@
 
 
 # About Me:
-🔭 Constantly shipping and learning<br>👯 I’m looking to collaborate on open source projects
+🔭 Constantly shipping and learning<br>👯 I’m looking to collaborate on new open source projects
 
 
 ## 🌐 Socials:
