@@ -4,7 +4,7 @@
 
 
 # About Me:
-🔭 Constantly learning<br>👯 I’m looking to collaborate on new open source projects
+🔭 Constantly learning<br>👯 I’m looking to collaborate on open source projects
 
 
 ## 🌐 Socials:
