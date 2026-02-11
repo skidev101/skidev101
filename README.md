@@ -4,7 +4,7 @@
 
 
 # About Me:
-Constantly learning<br> I’m looking to collaborate on open source projects
+Constantly learning<br> I’m looking to collaborate on cool open source projects
 
 
 ## Socials:
@@ -17,3 +17,4 @@ Constantly learning<br> I’m looking to collaborate on open source projects
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=skidev101&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=skidev101&theme=github_dark&hide_border=false)<br/>
 
+2
