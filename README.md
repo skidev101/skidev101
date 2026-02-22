@@ -4,7 +4,7 @@
 
 
 # About Me:
-Constantly learning<br> I’m looking to collaborate on cool open source projects
+Currently exploring ML<br> I’m looking to collaborate on cool open source projects
 
 
 ## Socials:
