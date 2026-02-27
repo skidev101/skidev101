@@ -21,10 +21,15 @@ const me: Dev = {
 export default me;
 ```
 
-
 ## Socials:
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=gmail,twitter">
+  <a href="mailto:skidev101@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://x.com/monaski_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 </p>
 
 ## Tech Stack:
