@@ -4,7 +4,7 @@
 
 
 ```ts
-interface Dev = {
+interface Dev {
   name: string;
   role: string;
   experience: string;
