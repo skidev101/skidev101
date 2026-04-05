@@ -39,6 +39,13 @@ export default me;
 
 
 ## GitHub Stats:
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=skidev101&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=8&order=3" height="220" alt="streak graph"  />
+</div>
+
+
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=skidev101&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=skidev101&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=skidev101&theme=github_dark&hide_border=false)<br/>
+-->
