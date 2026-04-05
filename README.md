@@ -37,9 +37,8 @@ export default me;
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,ts,tailwindcss,nodejs,express,python,mongodb,html,css,git,github,vscode,docker,markdown,postman,supabase,firebase,linux&perline=10">
 </p>
 
-<!--
+
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=skidev101&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=skidev101&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=skidev101&theme=github_dark&hide_border=false)<br/>
--->
