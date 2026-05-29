@@ -1,6 +1,6 @@
 <h2>Hello world, I'm Ethan</h2>
 
-<p>I'm a passionate Full Stack Developer with over 3 years of experience building responsive web apps and scalable backend systems. I love turning ideas into code, exploring new technologies, and contributing to open source. Let's build something awesome!</p>
+<p>I'm a passionate Full Stack Developer with over 4 years of experience building responsive web apps and scalable backend systems. I love turning ideas into code, exploring new technologies, and contributing to open source. Let's build something awesome!</p>
 
 
 ```ts
@@ -14,7 +14,7 @@ interface Dev {
 const me: Dev = {
   name: "Ojomona Ethan Inedu",
   role: "Full Stack Developer",
-  experience: "3+ years building responsive web apps & scalable backend systems",
+  experience: "4+ years building responsive web apps & scalable backend systems",
   about: "Passionate about turning ideas into code, exploring new tech, and contributing to open source.",
 };
 
