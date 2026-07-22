@@ -16,7 +16,7 @@ const me: Dev = {
   name: "Ojomona Ethan Inedu",
   role: "Full Stack Developer",
   experience: "4+ years building responsive web apps & scalable backend systems",
-  about: "Passionate about turning ideas into code, exploring new tech, and contributing to open source.",
+  about: "Turn crazy ideas into code, exploring new tech, and contributing to open source.",
 };
 
 export default me;
